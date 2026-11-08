@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dios Altísimo</string>
+    <string name="church_full_name">Iglesia del Dios Altísimo</string>
+    <string name="church_motto">Una familia de fe, esperanza y amor — CENFOL</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_live">En Vivo</string>
+    <string name="nav_events">Eventos</string>
+    <string name="nav_devotionals">Devocionales</string>
+    <string name="nav_giving">Ofrendas</string>
+    <string name="nav_community">Comunidad</string>
+</resources>

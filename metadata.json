@@ -1,0 +1,6 @@
+{
+  "name": "Dios Altísimo",
+  "description": "App oficial de la Iglesia del Dios Altísimo (CENFOL): transmisiones en vivo, eventos, devocionales bíblicos, testimonios, donaciones seguras y comunidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
